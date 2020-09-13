@@ -25,6 +25,7 @@ class ParallelizedRDD (sc: SparkContext) {
 
   def doUnion(): Array[Int] = {
     val unionRDD = sc.parallelize(list).union(sc.parallelize(list1))
+    val distinctRDD = unionRDD.distinct().collect()
     val result = unionRDD.collect()
     return result
   }

@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scalasparktutorial / Compile / compile] Found inputs: /home/ubuntu/IdeaProjects/ScalaSparkTutorial/*.{java,scala},/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/java/**/*.{java,scala},/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/resources/**/*,/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/**/*.{java,scala},/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala-2.11/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scalasparktutorial/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mscalasparktutorial / Compile / compile - Accepted event for /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala (previous stamp: Hash(fd819d9dada536c378f9a51335ed2b57af0336b2), current stamp: Hash(8e53e976d45ccf57ee015dd6cbb0f017417456b8))[0m
+[0m[[0m[0mdebug[0m] [0m[0mscalasparktutorial / Compile / compile - Accepted event for /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala -> Trigger. Returning: (Update(/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala, 2020-Aug-27 19:30:00.649 MEZ),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala, 2020-Aug-27 19:30:00.649 MEZ).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for scalasparktutorial/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/ubuntu/IdeaProjects/ScalaSparkTutorial/src/main/scala/rdds/ParallelizedRDD.scala. This event occurred 32 ms since the last event for this path.[0m
